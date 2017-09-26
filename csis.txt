@@ -1,0 +1,4 @@
+Your BMI is 25.1 and you are overweight.
+Your BMI is 18.2 and you are underweight.
+Your BMI is 37.4 and you are obese.
+Your BMI is 21.9 and you are normal.
